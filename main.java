@@ -1,10 +1,10 @@
-package me.invakid.azran.discord.command;
+package me.invakid.oliver.discord.command;
 
-import me.invakid.azran.Main;
-import me.invakid.azran.discord.AzranBot;
-import me.invakid.azran.discord.config.BotConfig;
-import me.invakid.azran.discord.db.DatabaseManager;
-import me.invakid.azran.discord.payment.PaymentManager;
+import me.invakid.oliver.Main;
+import me.invakid.oliver.discord.AzranBot;
+import me.invakid.oliver.discord.config.BotConfig;
+import me.invakid.oliver.discord.db.DatabaseManager;
+import me.invakid.oliver.discord.payment.PaymentManager;
 import me.invakid.botcore.BotCore;
 import me.invakid.botcore.annotation.Command;
 import me.invakid.botcore.util.MessageUtil;
