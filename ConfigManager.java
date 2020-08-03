@@ -1,4 +1,4 @@
-package me.invakid.azran.discord.config;
+package me.invakid.oliver.discord.config;
 
 import org.apache.commons.io.FileUtils;
 import org.yaml.snakeyaml.Yaml;
